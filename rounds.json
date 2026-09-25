@@ -1,0 +1,65 @@
+{
+  "created_at": "2026-09-25",
+  "rounds": [
+    {
+      "round": 1,
+      "title": "曲目 1",
+      "prompt": "Japanese instrumental chamber lo-fi with a clear one-minute arc. Begin with a four-bar koto and warm-piano introduction; state a memorable shamisen theme over restrained brushed drums; move to a contrasting shakuhachi-led middle with lighter texture and new harmony; return to the shamisen theme in a higher register and finish on a deliberate resolved cadence. Intimate, melodic, natural acoustic timbres, no vocals or speech.",
+      "seed": 240901,
+      "bpm": 72,
+      "key": "D minor",
+      "options": [
+        {
+          "label": "A",
+          "file": "audio/round-1-a.wav",
+          "sha256": "b163cc55a612ed9b3ced34b2e9bc8504bd118dcc93f1421c55e0ae4af85715f2"
+        },
+        {
+          "label": "B",
+          "file": "audio/round-1-b.wav",
+          "sha256": "6356fec356ceb68fc2a09446af5ef83b912bd701cadbc546e95fbb0483127f40"
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "title": "曲目 2",
+      "prompt": "Melodic Japanese instrumental lo-fi shaped as four distinct sections. A short felt-piano and koto introduction leads to a singable shamisen theme with soft boom-bap pulse; the drums then drop out for a spacious shakuhachi response and harmonic turn; rhythm returns with a developed variation of the opening theme; close with a calm complete cadence. Warm, focused, expressive, no vocals, speech, rain recordings or drone.",
+      "seed": 240902,
+      "bpm": 76,
+      "key": "G minor",
+      "options": [
+        {
+          "label": "A",
+          "file": "audio/round-2-a.wav",
+          "sha256": "25ae29e2edfc3bf28343785328dd025474307a92c2f64d2aca8552642332c926"
+        },
+        {
+          "label": "B",
+          "file": "audio/round-2-b.wav",
+          "sha256": "f29b0a3cdd9d5a605490ff3c9de7d76a60c04d0d8482131e82fa84546aeb6ea3"
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "title": "曲目 3",
+      "prompt": "Bright Japanese instrumental lo-fi with audible sectional contrast. Open sparsely with koto arpeggios and Rhodes; introduce an uplifting shamisen hook with relaxed drums and rounded bass; shift into a softer bridge led by shakuhachi and changed chords; build briefly, then reprise the exact shamisen hook with fuller koto answers and a clean final cadence. Airy, polished, clearly melodic, no vocals, speech, field recordings or abrupt cutoff.",
+      "seed": 240903,
+      "bpm": 84,
+      "key": "E major pentatonic",
+      "options": [
+        {
+          "label": "A",
+          "file": "audio/round-3-a.wav",
+          "sha256": "18477133a033eea13d9e49a06e39b2fed4bf73dac7b7ab9d11cb1befd8921c1c"
+        },
+        {
+          "label": "B",
+          "file": "audio/round-3-b.wav",
+          "sha256": "1981b80603a24c800e6035c1a353158f17796de678c748a6cca6994ee84ea6f5"
+        }
+      ]
+    }
+  ]
+}
