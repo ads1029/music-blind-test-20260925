@@ -18,6 +18,11 @@
           "label": "B",
           "file": "audio/round-1-b.wav",
           "sha256": "6356fec356ceb68fc2a09446af5ef83b912bd701cadbc546e95fbb0483127f40"
+        },
+        {
+          "label": "C",
+          "file": "audio/round-1-c.wav",
+          "sha256": "d351ae9f09fae2c298d4f85367e68689f9055a35417320a8e1daf4bf19796e7d"
         }
       ]
     },
@@ -38,6 +43,11 @@
           "label": "B",
           "file": "audio/round-2-b.wav",
           "sha256": "f29b0a3cdd9d5a605490ff3c9de7d76a60c04d0d8482131e82fa84546aeb6ea3"
+        },
+        {
+          "label": "C",
+          "file": "audio/round-2-c.wav",
+          "sha256": "22471434aede1790b3198d36e1ae94dbc99add2956c61f3296ed47de64786abf"
         }
       ]
     },
@@ -58,6 +68,11 @@
           "label": "B",
           "file": "audio/round-3-b.wav",
           "sha256": "1981b80603a24c800e6035c1a353158f17796de678c748a6cca6994ee84ea6f5"
+        },
+        {
+          "label": "C",
+          "file": "audio/round-3-c.wav",
+          "sha256": "e2af126e23fa00de50bf2495b388b8e2b98e9877d317d2bfa4681846e68208f7"
         }
       ]
     }
